@@ -1,4 +1,4 @@
 ---
-redirect_to: "https://lulab.life.tsinghua.edu.cn/clipdb"
+redirect_to: "http://lulab.life.tsinghua.edu.cn/clipdb"
 ---
 
